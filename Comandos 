@@ -1,0 +1,7 @@
+adicionar typescript 
+
+yarn add typescript @types/react @types/react-dom @types/node -D
+
+iniciar 
+ 
+yarn dev
